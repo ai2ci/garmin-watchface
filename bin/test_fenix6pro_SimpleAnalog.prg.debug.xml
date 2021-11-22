@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="1" lineNum="42" parent="globals/SimpleAnalogView" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="1" lineNum="43" parent="globals/SimpleAnalogView" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="2" lineNum="47" parent="globals/SimpleAnalogView" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="2" lineNum="48" parent="globals/SimpleAnalogView" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="2" lineNum="49" parent="globals/SimpleAnalogView" pc="268435502" symbol="onLayout"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="2" lineNum="50" parent="globals/SimpleAnalogView" pc="268435525" symbol="onLayout"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="2" lineNum="53" parent="globals/SimpleAnalogView" pc="268435548" symbol="onLayout"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="56" parent="globals/SimpleAnalogView" pc="268435586" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="57" parent="globals/SimpleAnalogView" pc="268435590" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="58" parent="globals/SimpleAnalogView" pc="268435609" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="59" parent="globals/SimpleAnalogView" pc="268435628" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="60" parent="globals/SimpleAnalogView" pc="268435650" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="61" parent="globals/SimpleAnalogView" pc="268435672" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="62" parent="globals/SimpleAnalogView" pc="268435688" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="64" parent="globals/SimpleAnalogView" pc="268435710" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="67" parent="globals/SimpleAnalogView" pc="268435724" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="71" parent="globals/SimpleAnalogView" pc="268435738" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="72" parent="globals/SimpleAnalogView" pc="268435749" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="73" parent="globals/SimpleAnalogView" pc="268435766" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="74" parent="globals/SimpleAnalogView" pc="268435797" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="75" parent="globals/SimpleAnalogView" pc="268435885" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="76" parent="globals/SimpleAnalogView" pc="268435921" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="81" parent="globals/SimpleAnalogView" pc="268436014" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="83" parent="globals/SimpleAnalogView" pc="268436028" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="84" parent="globals/SimpleAnalogView" pc="268436046" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="95" parent="globals/SimpleAnalogView" pc="268436114" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="3" lineNum="96" parent="globals/SimpleAnalogView" pc="268436125" symbol="onUpdate"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="100" parent="globals/SimpleAnalogView" pc="268436164" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="102" parent="globals/SimpleAnalogView" pc="268436168" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="106" parent="globals/SimpleAnalogView" pc="268436204" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="107" parent="globals/SimpleAnalogView" pc="268436270" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="108" parent="globals/SimpleAnalogView" pc="268436336" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="109" parent="globals/SimpleAnalogView" pc="268436402" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="4" lineNum="110" parent="globals/SimpleAnalogView" pc="268436468" symbol="drawFenix"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="113" parent="globals/SimpleAnalogView" pc="268436535" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="114" parent="globals/SimpleAnalogView" pc="268436539" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="117" parent="globals/SimpleAnalogView" pc="268436556" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="118" parent="globals/SimpleAnalogView" pc="268436614" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="119" parent="globals/SimpleAnalogView" pc="268436672" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="122" parent="globals/SimpleAnalogView" pc="268436730" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="123" parent="globals/SimpleAnalogView" pc="268436782" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="124" parent="globals/SimpleAnalogView" pc="268436834" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="125" parent="globals/SimpleAnalogView" pc="268436886" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="127" parent="globals/SimpleAnalogView" pc="268436938" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="129" parent="globals/SimpleAnalogView" pc="268436949" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="5" lineNum="130" parent="globals/SimpleAnalogView" pc="268437001" symbol="drawHands"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="141" parent="globals/SimpleAnalogView" pc="268437057" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="142" parent="globals/SimpleAnalogView" pc="268437061" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="143" parent="globals/SimpleAnalogView" pc="268437096" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="150" parent="globals/SimpleAnalogView" pc="268437312" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="151" parent="globals/SimpleAnalogView" pc="268437338" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="6" lineNum="152" parent="globals/SimpleAnalogView" pc="268437352" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="156" parent="globals/SimpleAnalogView" pc="268437397" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="157" parent="globals/SimpleAnalogView" pc="268437401" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="158" parent="globals/SimpleAnalogView" pc="268437414" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="159" parent="globals/SimpleAnalogView" pc="268437427" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="161" parent="globals/SimpleAnalogView" pc="268437431" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="162" parent="globals/SimpleAnalogView" pc="268437448" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="163" parent="globals/SimpleAnalogView" pc="268437484" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="164" parent="globals/SimpleAnalogView" pc="268437527" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="170" parent="globals/SimpleAnalogView" pc="268437570" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="7" lineNum="171" parent="globals/SimpleAnalogView" pc="268437596" symbol="drawTopBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="174" parent="globals/SimpleAnalogView" pc="268437670" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="175" parent="globals/SimpleAnalogView" pc="268437674" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="176" parent="globals/SimpleAnalogView" pc="268437688" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="177" parent="globals/SimpleAnalogView" pc="268437699" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="178" parent="globals/SimpleAnalogView" pc="268437709" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="179" parent="globals/SimpleAnalogView" pc="268437720" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="8" lineNum="182" parent="globals/SimpleAnalogView" pc="268437730" symbol="drawBatteryBar"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="185" parent="globals/SimpleAnalogView" pc="268437749" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="186" parent="globals/SimpleAnalogView" pc="268437753" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="188" parent="globals/SimpleAnalogView" pc="268437789" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="190" parent="globals/SimpleAnalogView" pc="268437824" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="191" parent="globals/SimpleAnalogView" pc="268437882" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="193" parent="globals/SimpleAnalogView" pc="268437940" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="194" parent="globals/SimpleAnalogView" pc="268437951" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="9" lineNum="196" parent="globals/SimpleAnalogView" pc="268437975" symbol="drawSteps"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="10" lineNum="200" parent="globals/SimpleAnalogView" pc="268437997" symbol="onEnterSleep"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="10" lineNum="201" parent="globals/SimpleAnalogView" pc="268438001" symbol="onEnterSleep"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="10" lineNum="202" parent="globals/SimpleAnalogView" pc="268438011" symbol="onEnterSleep"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="11" lineNum="205" parent="globals/SimpleAnalogView" pc="268438028" symbol="onExitSleep"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="11" lineNum="206" parent="globals/SimpleAnalogView" pc="268438032" symbol="onExitSleep"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="12" lineNum="19" parent="globals/SimpleAnalogView" pc="268442672" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogView.mc" id="12" lineNum="19" parent="globals/SimpleAnalogView" pc="268442672" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="14" lineNum="7" parent="globals/SimpleAnalogApp" pc="268438043" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="14" lineNum="8" parent="globals/SimpleAnalogApp" pc="268438047" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="15" lineNum="12" parent="globals/SimpleAnalogApp" pc="268438066" symbol="onStart"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="16" lineNum="16" parent="globals/SimpleAnalogApp" pc="268438071" symbol="onStop"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="17" lineNum="20" parent="globals/SimpleAnalogApp" pc="268438076" symbol="getInitialView"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="17" lineNum="21" parent="globals/SimpleAnalogApp" pc="268438080" symbol="getInitialView"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="18" lineNum="25" parent="globals/SimpleAnalogApp" pc="268438118" symbol="onSettingsChanged"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="18" lineNum="26" parent="globals/SimpleAnalogApp" pc="268438122" symbol="onSettingsChanged"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="19" lineNum="5" parent="globals/SimpleAnalogApp" pc="268442653" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="19" lineNum="5" parent="globals/SimpleAnalogApp" pc="268442653" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="20" lineNum="31" parent="globals" pc="268438139" symbol="getApp"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/SimpleAnalogApp.mc" id="20" lineNum="32" parent="globals" pc="268438151" symbol="getApp"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="22" lineNum="14" parent="globals/Background" pc="268438168" symbol="toRad"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="22" lineNum="15" parent="globals/Background" pc="268438172" symbol="toRad"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="23" lineNum="18" parent="globals/Background" pc="268438197" symbol="pointOnCircle"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="23" lineNum="19" parent="globals/Background" pc="268438201" symbol="pointOnCircle"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="23" lineNum="20" parent="globals/Background" pc="268438236" symbol="pointOnCircle"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="23" lineNum="21" parent="globals/Background" pc="268438271" symbol="pointOnCircle"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="24" lineNum="24" parent="globals/Background" pc="268438311" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="24" lineNum="25" parent="globals/Background" pc="268438315" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="24" lineNum="27" parent="globals/Background" pc="268438335" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="24" lineNum="28" parent="globals/Background" pc="268438359" symbol="initialize"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="31" parent="globals/Background" pc="268438384" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="32" parent="globals/Background" pc="268438388" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="33" parent="globals/Background" pc="268438407" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="34" parent="globals/Background" pc="268438426" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="35" parent="globals/Background" pc="268438448" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="36" parent="globals/Background" pc="268438470" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="37" parent="globals/Background" pc="268438486" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="39" parent="globals/Background" pc="268438508" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="41" parent="globals/Background" pc="268438544" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="43" parent="globals/Background" pc="268438556" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="47" parent="globals/Background" pc="268438570" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="48" parent="globals/Background" pc="268438606" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="50" parent="globals/Background" pc="268438639" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="51" parent="globals/Background" pc="268438688" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="52" parent="globals/Background" pc="268438737" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="54" parent="globals/Background" pc="268438786" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="55" parent="globals/Background" pc="268438803" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="56" parent="globals/Background" pc="268438839" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="58" parent="globals/Background" pc="268438881" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="25" lineNum="59" parent="globals/Background" pc="268438899" symbol="draw"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="63" parent="globals/Background" pc="268438968" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="64" parent="globals/Background" pc="268438972" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="65" parent="globals/Background" pc="268439009" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="74" parent="globals/Background" pc="268439241" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="75" parent="globals/Background" pc="268439267" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="26" lineNum="76" parent="globals/Background" pc="268439281" symbol="drawHand"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="79" parent="globals/Background" pc="268439326" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="80" parent="globals/Background" pc="268439330" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="81" parent="globals/Background" pc="268439337" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="82" parent="globals/Background" pc="268439344" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="85" parent="globals/Background" pc="268439381" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="86" parent="globals/Background" pc="268439385" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="87" parent="globals/Background" pc="268439412" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="93" parent="globals/Background" pc="268439445" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="94" parent="globals/Background" pc="268439459" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="98" parent="globals/Background" pc="268439495" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="99" parent="globals/Background" pc="268439523" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="100" parent="globals/Background" pc="268439551" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="101" parent="globals/Background" pc="268439579" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="107" parent="globals/Background" pc="268439791" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="108" parent="globals/Background" pc="268439801" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="109" parent="globals/Background" pc="268439909" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="110" parent="globals/Background" pc="268439953" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="111" parent="globals/Background" pc="268439976" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="113" parent="globals/Background" pc="268440086" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="114" parent="globals/Background" pc="268440104" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="115" parent="globals/Background" pc="268440111" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="116" parent="globals/Background" pc="268440118" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="117" parent="globals/Background" pc="268440174" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="118" parent="globals/Background" pc="268440230" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="119" parent="globals/Background" pc="268440352" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="122" parent="globals/Background" pc="268440487" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="123" parent="globals/Background" pc="268440497" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="124" parent="globals/Background" pc="268440605" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="125" parent="globals/Background" pc="268440649" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="127" parent="globals/Background" pc="268440759" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="128" parent="globals/Background" pc="268440777" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="129" parent="globals/Background" pc="268440784" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="130" parent="globals/Background" pc="268440791" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="131" parent="globals/Background" pc="268440798" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="132" parent="globals/Background" pc="268440854" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="133" parent="globals/Background" pc="268440904" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="134" parent="globals/Background" pc="268441026" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="137" parent="globals/Background" pc="268441155" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="138" parent="globals/Background" pc="268441165" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="139" parent="globals/Background" pc="268441273" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="140" parent="globals/Background" pc="268441317" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="142" parent="globals/Background" pc="268441427" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="143" parent="globals/Background" pc="268441445" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="144" parent="globals/Background" pc="268441452" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="145" parent="globals/Background" pc="268441459" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="146" parent="globals/Background" pc="268441466" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="147" parent="globals/Background" pc="268441522" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="148" parent="globals/Background" pc="268441572" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="149" parent="globals/Background" pc="268441694" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="27" lineNum="151" parent="globals/Background" pc="268441823" symbol="drawBGLines"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="28" lineNum="4" parent="globals/Background" pc="268442566" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/artur.chlad/projects/garmin/SimpleAnalog/source/Background.mc" id="28" lineNum="4" parent="globals/Background" pc="268442566" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="15" parent="globals/Rez/Drawables/FenixLines" pc="268441847" symbol="initialize"/>
+        <entry filename="Rez" id="30" lineNum="16" parent="globals/Rez/Drawables/FenixLines" pc="268441851" symbol="initialize"/>
+        <entry filename="Rez" id="30" lineNum="17" parent="globals/Rez/Drawables/FenixLines" pc="268441875" symbol="initialize"/>
+        <entry filename="Rez" id="31" lineNum="20" parent="globals/Rez/Drawables/FenixLines" pc="268441923" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="21" parent="globals/Rez/Drawables/FenixLines" pc="268441927" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="22" parent="globals/Rez/Drawables/FenixLines" pc="268441938" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="23" parent="globals/Rez/Drawables/FenixLines" pc="268441950" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="27" parent="globals/Rez/Drawables/FenixLines" pc="268441957" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="28" parent="globals/Rez/Drawables/FenixLines" pc="268441993" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="29" parent="globals/Rez/Drawables/FenixLines" pc="268442025" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="31" parent="globals/Rez/Drawables/FenixLines" pc="268442061" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="33" parent="globals/Rez/Drawables/FenixLines" pc="268442091" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="34" parent="globals/Rez/Drawables/FenixLines" pc="268442127" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="36" parent="globals/Rez/Drawables/FenixLines" pc="268442154" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="37" parent="globals/Rez/Drawables/FenixLines" pc="268442190" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="37" parent="globals/Rez/Drawables/FenixLines" pc="268442207" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="38" parent="globals/Rez/Drawables/FenixLines" pc="268442234" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="39" parent="globals/Rez/Drawables/FenixLines" pc="268442270" symbol="draw"/>
+        <entry filename="Rez" id="32" lineNum="11" parent="globals/Rez/Drawables/FenixLines" pc="268442610" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="11" parent="globals/Rez/Drawables/FenixLines" pc="268442610" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="52" parent="globals/Rez/Drawables/BGLines" pc="268442298" symbol="initialize"/>
+        <entry filename="Rez" id="33" lineNum="53" parent="globals/Rez/Drawables/BGLines" pc="268442302" symbol="initialize"/>
+        <entry filename="Rez" id="34" lineNum="56" parent="globals/Rez/Drawables/BGLines" pc="268442327" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="57" parent="globals/Rez/Drawables/BGLines" pc="268442331" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="58" parent="globals/Rez/Drawables/BGLines" pc="268442342" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="59" parent="globals/Rez/Drawables/BGLines" pc="268442354" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="63" parent="globals/Rez/Drawables/BGLines" pc="268442361" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="64" parent="globals/Rez/Drawables/BGLines" pc="268442397" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="65" parent="globals/Rez/Drawables/BGLines" pc="268442429" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="50" parent="globals/Rez/Drawables/BGLines" pc="268442629" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="35" lineNum="50" parent="globals/Rez/Drawables/BGLines" pc="268442629" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="2" parent="globals/Rez/Drawables" pc="268442609" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="37" lineNum="72" parent="globals/Rez/Fonts" pc="268442649" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="38" lineNum="74" parent="globals/Rez/JsonData" pc="268442651" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="39" lineNum="83" parent="globals/Rez/Layouts" pc="268442466" symbol="SimpleAnalog"/>
+        <entry filename="Rez" id="39" lineNum="85" parent="globals/Rez/Layouts" pc="268442478" symbol="SimpleAnalog"/>
+        <entry filename="Rez" id="39" lineNum="87" parent="globals/Rez/Layouts" pc="268442547" symbol="SimpleAnalog"/>
+        <entry filename="Rez" id="40" lineNum="76" parent="globals/Rez/Layouts" pc="268442650" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="41" lineNum="92" parent="globals/Rez/Menus" pc="268442648" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="42" lineNum="94" parent="globals/Rez/Strings" pc="268442652" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="43" lineNum="1" parent="globals/Rez" pc="268442585" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="43" lineNum="1" parent="globals/Rez" pc="268442585" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="49" method="true" symbol="drawBatteryBar"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="15" symbol="minDim"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="30" symbol="ColorRed"/>
+        <entry id="46" method="true" symbol="drawFenix"/>
+        <entry field="true" id="34" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="24" object="true" symbol="FenixLines"/>
+        <entry field="true" id="29" symbol="ColorBlue"/>
+        <entry id="16" method="true" symbol="toRad"/>
+        <entry field="true" id="37" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="41" symbol="isAwake"/>
+        <entry field="true" id="8388795" method="true" symbol="length"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="44" symbol="showBatteryBar"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="40" symbol="&lt;globals/SimpleAnalogView/&lt;&gt;currentSettings&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="50" method="true" symbol="drawSteps"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="38" symbol="&lt;globals/SimpleAnalogView/&lt;&gt;deviceWidth&gt;"/>
+        <entry field="true" id="33" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="36" symbol="ColorWhite"/>
+        <entry field="true" id="39" symbol="&lt;globals/SimpleAnalogView/&lt;&gt;currentApp&gt;"/>
+        <entry id="27" method="true" symbol="SimpleAnalog"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="35" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="10" object="true" symbol="SimpleAnalogApp"/>
+        <entry id="48" method="true" symbol="drawTopBar"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="19" method="true" symbol="drawBGLines"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="17" method="true" symbol="pointOnCircle"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="18" method="true" symbol="drawHand"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="23" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="22" symbol="icon"/>
+        <entry field="true" id="8389342" symbol="hours"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="32" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="43" symbol="showDate"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="14" symbol="centerY"/>
+        <entry field="true" id="13" symbol="centerX"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="26" symbol="image_icon"/>
+        <entry field="true" id="45" symbol="showStepsBar"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="28" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="31" symbol="ForegroundColorTitle"/>
+        <entry id="47" method="true" symbol="drawHands"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry field="true" id="8389343" symbol="minutes"/>
+        <entry field="true" id="11" symbol="topColor"/>
+        <entry field="true" id="12" symbol="bottomColor"/>
+        <entry field="true" id="42" symbol="showTime"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="25" object="true" symbol="BGLines"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="9" object="true" symbol="SimpleAnalogView"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435585" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268436010" name="dateStr" stackId="4" startPc="268435749"/>
+        <entry endPc="268436010" name="now" stackId="2" startPc="268435749"/>
+        <entry endPc="268436010" name="info" stackId="3" startPc="268435749"/>
+        <entry endPc="268436113" name="i" stackId="5" startPc="268436046"/>
+        <entry arg="true" endPc="268436163" name="dc" stackId="1" startPc="268435586"/>
+        <entry arg="true" endPc="268436534" name="dc" stackId="1" startPc="268436164"/>
+        <entry endPc="268437055" name="hour" stackId="3" startPc="268436539"/>
+        <entry endPc="268437055" name="clockTime" stackId="2" startPc="268436539"/>
+        <entry arg="true" endPc="268437056" name="dc" stackId="1" startPc="268436535"/>
+        <entry endPc="268437395" name="coordinates" stackId="8" startPc="268437061"/>
+        <entry endPc="268437395" name="angle" stackId="7" startPc="268437061"/>
+        <entry arg="true" endPc="268437396" name="end" stackId="6" startPc="268437057"/>
+        <entry arg="true" endPc="268437396" name="clockAngle" stackId="2" startPc="268437057"/>
+        <entry arg="true" endPc="268437396" name="dc" stackId="1" startPc="268437057"/>
+        <entry arg="true" endPc="268437396" name="color" stackId="4" startPc="268437057"/>
+        <entry arg="true" endPc="268437396" name="weight" stackId="3" startPc="268437057"/>
+        <entry arg="true" endPc="268437396" name="start" stackId="5" startPc="268437057"/>
+        <entry endPc="268437668" name="height" stackId="5" startPc="268437401"/>
+        <entry endPc="268437668" name="min_dim" stackId="6" startPc="268437401"/>
+        <entry endPc="268437668" name="width" stackId="4" startPc="268437401"/>
+        <entry arg="true" endPc="268437669" name="dc" stackId="1" startPc="268437397"/>
+        <entry arg="true" endPc="268437669" name="color" stackId="3" startPc="268437397"/>
+        <entry arg="true" endPc="268437669" name="pos" stackId="2" startPc="268437397"/>
+        <entry endPc="268437747" name="color" stackId="3" startPc="268437674"/>
+        <entry arg="true" endPc="268437748" name="battery" stackId="2" startPc="268437670"/>
+        <entry arg="true" endPc="268437748" name="dc" stackId="1" startPc="268437670"/>
+        <entry endPc="268437995" name="x" stackId="4" startPc="268437753"/>
+        <entry endPc="268437995" name="angle" stackId="3" startPc="268437753"/>
+        <entry endPc="268437995" name="y" stackId="5" startPc="268437753"/>
+        <entry arg="true" endPc="268437996" name="dc" stackId="1" startPc="268437749"/>
+        <entry arg="true" endPc="268437996" name="steps" stackId="2" startPc="268437749"/>
+        <entry arg="true" endPc="268438070" name="state" stackId="1" startPc="268438066"/>
+        <entry arg="true" endPc="268438075" name="state" stackId="1" startPc="268438071"/>
+        <entry arg="true" endPc="268438196" name="alpha" stackId="1" startPc="268438168"/>
+        <entry arg="true" endPc="268438310" name="r" stackId="1" startPc="268438197"/>
+        <entry arg="true" endPc="268438310" name="alpha" stackId="2" startPc="268438197"/>
+        <entry arg="true" endPc="268438383" name="params" stackId="1" startPc="268438311"/>
+        <entry endPc="268438966" name="i" stackId="2" startPc="268438899"/>
+        <entry arg="true" endPc="268438967" name="dc" stackId="1" startPc="268438384"/>
+        <entry endPc="268439324" name="coordinates" stackId="8" startPc="268438972"/>
+        <entry endPc="268439324" name="angle" stackId="7" startPc="268438972"/>
+        <entry arg="true" endPc="268439325" name="end" stackId="6" startPc="268438968"/>
+        <entry arg="true" endPc="268439325" name="clockAngle" stackId="2" startPc="268438968"/>
+        <entry arg="true" endPc="268439325" name="dc" stackId="1" startPc="268438968"/>
+        <entry arg="true" endPc="268439325" name="color" stackId="4" startPc="268438968"/>
+        <entry arg="true" endPc="268439325" name="weight" stackId="3" startPc="268438968"/>
+        <entry arg="true" endPc="268439325" name="start" stackId="5" startPc="268438968"/>
+        <entry endPc="268440473" name="pushY" stackId="16" startPc="268440104"/>
+        <entry endPc="268440473" name="pushX" stackId="15" startPc="268440104"/>
+        <entry endPc="268440486" name="j" stackId="14" startPc="268440104"/>
+        <entry endPc="268441141" name="pushY" stackId="19" startPc="268440777"/>
+        <entry endPc="268441141" name="pushY2" stackId="20" startPc="268440777"/>
+        <entry endPc="268441141" name="pushX" stackId="18" startPc="268440777"/>
+        <entry endPc="268441154" name="j" stackId="17" startPc="268440777"/>
+        <entry endPc="268441809" name="pushY" stackId="23" startPc="268441445"/>
+        <entry endPc="268441809" name="pushY2" stackId="24" startPc="268441445"/>
+        <entry endPc="268441809" name="pushX" stackId="22" startPc="268441445"/>
+        <entry endPc="268441822" name="j" stackId="21" startPc="268441445"/>
+        <entry endPc="268441845" name="distance" stackId="2" startPc="268439330"/>
+        <entry endPc="268441845" name="fullLine" stackId="4" startPc="268439330"/>
+        <entry endPc="268441845" name="sideC" stackId="7" startPc="268439330"/>
+        <entry endPc="268441845" name="sideB" stackId="5" startPc="268439330"/>
+        <entry endPc="268441845" name="sideA" stackId="6" startPc="268439330"/>
+        <entry endPc="268441845" name="penWidth" stackId="3" startPc="268439330"/>
+        <entry endPc="268441845" name="leftAngle" stackId="10" startPc="268439330"/>
+        <entry endPc="268441845" name="c" stackId="13" startPc="268439330"/>
+        <entry endPc="268441845" name="coordinates" stackId="11" startPc="268439330"/>
+        <entry endPc="268441845" name="topAngle" stackId="8" startPc="268439330"/>
+        <entry endPc="268441845" name="rightAngle" stackId="9" startPc="268439330"/>
+        <entry endPc="268441845" name="line" stackId="12" startPc="268439330"/>
+        <entry arg="true" endPc="268441846" name="dc" stackId="1" startPc="268439326"/>
+        <entry arg="true" endPc="268442297" name="dc" stackId="1" startPc="268441923"/>
+        <entry arg="true" endPc="268442465" name="dc" stackId="1" startPc="268442327"/>
+        <entry endPc="268442563" name="rez_cmp_local_custom_drawable_Background" stackId="2" startPc="268442478"/>
+        <entry arg="true" endPc="268442564" name="dc" stackId="1" startPc="268442466"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="icon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="FenixLines" module="globals/Rez/Drawables" symbol="image_icon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/Rez" offset="317" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="396" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/FenixLines" offset="459" parentId="Drawables" symbolId="FenixLines" type="class"/>
+        <dataEntry label="globals/Rez/Drawables/BGLines" offset="522" parentId="Drawables" symbolId="BGLines" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="608" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="639" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="678" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="709" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/SimpleAnalogApp" offset="820" parentId="globals" symbolId="SimpleAnalogApp" type="class"/>
+        <dataEntry label="globals/SimpleAnalogView" offset="899" parentId="globals" symbolId="SimpleAnalogView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="SimpleAnalogView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435585" name="onLayout" parent="SimpleAnalogView" startPc="268435479">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436163" name="onUpdate" parent="SimpleAnalogView" startPc="268435586">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436534" name="drawFenix" parent="SimpleAnalogView" startPc="268436164">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437056" name="drawHands" parent="SimpleAnalogView" startPc="268436535">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437396" name="drawHand" parent="SimpleAnalogView" startPc="268437057">
+            <param id="dc"/>
+            <param id="clockAngle"/>
+            <param id="weight"/>
+            <param id="color"/>
+            <param id="start"/>
+            <param id="end"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437669" name="drawTopBar" parent="SimpleAnalogView" startPc="268437397">
+            <param id="dc"/>
+            <param id="pos"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437748" name="drawBatteryBar" parent="SimpleAnalogView" startPc="268437670">
+            <param id="dc"/>
+            <param id="battery"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437996" name="drawSteps" parent="SimpleAnalogView" startPc="268437749">
+            <param id="dc"/>
+            <param id="steps"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438027" name="onEnterSleep" parent="SimpleAnalogView" startPc="268437997">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438042" name="onExitSleep" parent="SimpleAnalogView" startPc="268438028">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442690" name="&lt;init&gt;" parent="SimpleAnalogView" startPc="268442672">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438065" name="initialize" parent="SimpleAnalogApp" startPc="268438043">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438070" name="onStart" parent="SimpleAnalogApp" startPc="268438066">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438075" name="onStop" parent="SimpleAnalogApp" startPc="268438071">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438117" name="getInitialView" parent="SimpleAnalogApp" startPc="268438076">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438138" name="onSettingsChanged" parent="SimpleAnalogApp" startPc="268438118">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442671" name="&lt;init&gt;" parent="SimpleAnalogApp" startPc="268442653">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438167" name="getApp" startPc="268438139">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438196" name="toRad" parent="Background" startPc="268438168">
+            <param id="alpha"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438310" name="pointOnCircle" parent="Background" startPc="268438197">
+            <param id="r"/>
+            <param id="alpha"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438383" name="initialize" parent="Background" startPc="268438311">
+            <param id="params"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438967" name="draw" parent="Background" startPc="268438384">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439325" name="drawHand" parent="Background" startPc="268438968">
+            <param id="dc"/>
+            <param id="clockAngle"/>
+            <param id="weight"/>
+            <param id="color"/>
+            <param id="start"/>
+            <param id="end"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441846" name="drawBGLines" parent="Background" startPc="268439326">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442584" name="&lt;init&gt;" parent="Background" startPc="268442566">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441922" name="initialize" parent="FenixLines" startPc="268441847">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442297" name="draw" parent="FenixLines" startPc="268441923">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442628" name="&lt;init&gt;" parent="FenixLines" startPc="268442610">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442326" name="initialize" parent="BGLines" startPc="268442298">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442465" name="draw" parent="BGLines" startPc="268442327">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442647" name="&lt;init&gt;" parent="BGLines" startPc="268442629">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442609" name="&lt;init&gt;" parent="Drawables" startPc="268442609">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442649" name="&lt;init&gt;" parent="Fonts" startPc="268442649">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442651" name="&lt;init&gt;" parent="JsonData" startPc="268442651">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442564" name="SimpleAnalog" parent="Layouts" startPc="268442466">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442650" name="&lt;init&gt;" parent="Layouts" startPc="268442650">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442648" name="&lt;init&gt;" parent="Menus" startPc="268442648">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442652" name="&lt;init&gt;" parent="Strings" startPc="268442652">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268442608" name="&lt;init&gt;" parent="Rez" startPc="268442585">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

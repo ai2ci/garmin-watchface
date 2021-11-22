@@ -1,0 +1,10 @@
+<layout id="Second"> 
+    <drawable id="Hands" class="Hands">
+    	<param name="handColor">Gfx.COLOR_LT_GRAY</param>
+    	<param name="handType">2</param>
+    	<param name="handWidth">12</param>
+    	<param name="centerRadius">8</param>
+    	<param name="secondHandColor">0x009900</param>
+    	<param name="hasSecondHand">1</param>
+    </drawable>
+</layout>

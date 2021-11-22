@@ -1,0 +1,116 @@
+body {
+    background-color: black
+}
+.content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.rounded {
+    height: 240px;
+    width: 240px;
+    background-color: transparent;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+.blackLine {
+    width: 6px;
+    background-color: black;
+    height: 20%;
+    position: absolute;
+    top: 50%;
+    left: 117px;
+    transform-origin: top center;
+    z-index:  10;;
+}
+
+.full {
+    height: 100%;
+}
+
+.blackLineLeft {
+    transform: rotate(-120deg);
+}
+.blackLineRight {
+    transform: rotate(120deg);
+}
+
+
+.triangle {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    clip-path: polygon(50% 50%, 50% 0%, 100% 0%, 133.3% 100%);
+    /* background-color: #222; */
+}
+
+/* .triangle::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-image: 
+        radial-gradient(#555 5%, transparent 20%),
+        radial-gradient(#555 5%, transparent 20%);
+    background-position: 0 0, 3px 3px;
+    background-size: 6px 6px;
+    transform: rotate(60deg);
+} */
+
+.triangleTop {
+    transform: rotate(-60deg);
+}
+
+.triangleRight {
+    transform: rotate(60deg);
+}
+
+.triangleLeft {
+    transform: rotate(180deg);
+}
+
+.greyLines {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 1000%;
+    top: 0;
+    border: 1px darkgray solid;
+
+    transform: rotate(60deg);
+}
+
+.centerCircle {
+    position: relative;
+    background: black;
+    width: 60px;
+    height: 60px;
+    top: 90px;
+    left: 90px;
+    border-radius: 50%;
+    z-index:  10;;
+}
+
+.point {
+    position: absolute;
+    background: #555;
+    width: 1px;
+    height: 1px;
+}
+
+.fenix {
+    position: absolute;
+    color: #555;
+    top: 30px;
+    width: 100%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}

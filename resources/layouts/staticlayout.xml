@@ -1,0 +1,15 @@
+<layout id="Static"> 
+    <drawable id="Background" class="Background">
+    	<param name="topColor">0xFF0055</param>
+    	<param name="bottomColor">0xFF5500</param>
+    </drawable>
+
+    <label text="FĒNIX" id="fenix" x="50%" y="20%" font="Gfx.FONT_TINY" color="Gfx.COLOR_DK_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+
+    <drawable id="Dial" class="Dial">
+    	<param name="color">Gfx.COLOR_LT_GRAY</param>
+    	<param name="width">3</param>
+    	<param name="height">6</param>
+    	<param name="points">12</param>
+    </drawable>
+</layout>

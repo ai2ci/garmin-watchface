@@ -1,0 +1,43 @@
+<layout id="SimpleAnalog"> 
+    <!-- <drawable id="FenixLines" class="FenixLines" /> -->
+    <drawable id="Background" class="Background">
+    	<param name="topColor">0xFF0055</param>
+    	<param name="bottomColor">0xFF5500</param>
+    </drawable>
+
+    <label text="FĒNIX" id="fenix" x="50%" y="20%" font="Gfx.FONT_TINY" color="Gfx.COLOR_DK_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+
+    <label id="date" x="50%" y="75%" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="bottomRight" x="52%" y="90%" font="Gfx.FONT_XTINY" color="Gfx.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="bottomLeft" x="48%" y="90%" font="Gfx.FONT_XTINY" color="Gfx.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+
+    <drawable id="Dial" class="Dial">
+    	<param name="color">Gfx.COLOR_LT_GRAY</param>
+    	<param name="width">3</param>
+    	<param name="height">6</param>
+    	<param name="points">4</param>
+    </drawable>
+
+    <drawable id="Steps" class="Steps">
+    	<param name="color">Gfx.COLOR_GREEN</param>
+    	<param name="radius">3</param>
+    	<param name="distance">3</param>
+    </drawable>
+
+    <drawable id="SunriseSunset" class="SunriseSunset">
+    	<param name="sunriseColor">Gfx.COLOR_ORANGE</param>
+    	<param name="sunsetColor">Gfx.COLOR_YELLOW</param>
+    	<param name="radius">2</param>
+    	<param name="distance">2</param>
+    </drawable>
+
+    <drawable id="Hands" class="Hands">
+    	<param name="handColor">Gfx.COLOR_LT_GRAY</param>
+    	<param name="handType">2</param>
+    	<param name="handWidth">12</param>
+    	<param name="centerRadius">8</param>
+    	<param name="secondHandColor">0x009900</param>
+    	<param name="hasSecondHand">1</param>
+    </drawable>
+
+</layout>

@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="./bg.css" />
+    </head>
+    <body>
+        <div class="content">
+            <div class="rounded">
+                <div class="triangle triangleTop" >
+                </div>
+                <div class="triangle triangleRight" ></div>
+                <div class="triangle triangleLeft" ></div>
+
+
+                <div class="rounded" style="transform: rotate(0deg); top: 0; position: absolute">
+                    <div class="blackLine full" ></div>
+                    <div class="blackLine blackLineLeft full" ></div>
+                    <div class="blackLine blackLineRight full" ></div>
+                </div>
+
+                <div class="centerCircle" ></div>
+                <!-- <div class="fenix" >FENIX</div> -->
+            </div>
+        </div>
+        <script>
+            const center = 120;
+            const rounded = document.querySelector(".rounded");
+
+            for (let end = 0 ; end < 130 ; end+=3) {
+                for (let angle = 0 ; angle < 360 ; angle+=3) {
+                    const point = document.createElement("div");
+                    point.className = "point";
+
+                    point.style.top = Math.round(center + end * Math.cos(angle) + Math.random() * 60 -30);
+                    point.style.left = Math.round(center + end * Math.sin(angle) + Math.random() * 60 -30);
+
+                    rounded.appendChild(point);
+                }
+            }
+
+        </script>
+    </body>
+</html>
+

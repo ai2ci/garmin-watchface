@@ -1,0 +1,71 @@
+<resources>
+    <drawable-list id="FenixLines" background="Gfx.COLOR_BLACK" x="0" y="0" width="100%" height="100%">
+        <bitmap id="icon" filename="./bg.gif" x="10" y="10" />
+        <shape type="circle" x="50%" y="50%" radius="30" color="Gfx.COLOR_BLACK" />
+        <shape type="circle" x="50%" y="50%" radius="55%" color="Gfx.COLOR_TRANSPARENT" border_width="35"  border_color="Gfx.COLOR_BLACK" />
+    </drawable-list>
+    <drawable-list id="FenixStars" background="Gfx.COLOR_BLACK" x="10%" y="10%" width="40%" height="40%">
+        <bitmap id="icon" filename="./bg-stars-fenix.gif" x="0" y="0" />
+    </drawable-list>
+    <drawable-list id="BGLines" background="Gfx.COLOR_BLACK" x="0" y="0" width="100%" height="100%">
+        <!-- <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[130,0],[130,2]]" /> -->
+        <!-- <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[139,124.803848],[139,-5.196153],[139,124.803848],[139,-5.196153]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[121,124.803848],[121,-5.196153],[121,124.803848],[121,-5.196153]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[148,119.607697],[148,-10.392305],[148,119.607697],[148,-10.392305]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[112,119.607697],[112,-10.392305],[112,119.607697],[112,-10.392305]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[157,114.411545],[157,-15.588458],[157,114.411545],[157,-15.588458]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[103,114.411545],[103,-15.588458],[103,114.411545],[103,-15.588458]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[166,109.215393],[166,-20.784611],[166,109.215393],[166,-20.784611]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[94,109.215393],[94,-20.784611],[94,109.215393],[94,-20.784611]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[175,104.019241],[175,-25.980762],[175,104.019241],[175,-25.980762]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[85,104.019241],[85,-25.980762],[85,104.019241],[85,-25.980762]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[184,98.823082],[184,-31.176916],[184,98.823082],[184,-31.176916]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[76,98.823082],[76,-31.176916],[76,98.823082],[76,-31.176916]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[193,93.626930],[193,-36.373070],[193,93.626930],[193,-36.373070]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[67,93.626930],[67,-36.373070],[67,93.626930],[67,-36.373070]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[202,88.430779],[202,-41.569221],[202,88.430779],[202,-41.569221]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[58,88.430779],[58,-41.569221],[58,88.430779],[58,-41.569221]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[211,83.234627],[211,-46.765373],[211,83.234627],[211,-46.765373]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[49,83.234627],[49,-46.765373],[49,83.234627],[49,-46.765373]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[17.416718,195.000031],[130,130],[17.416718,195.000031]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[17.416718,195.000031],[130,130],[17.416718,195.000031]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[17.416718,195.000031],[130,130],[17.416718,195.000031]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[121,124.803848],[8.416718,189.803879],[121,124.803848],[8.416718,189.803879]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,140.392303],[17.416718,205.392334],[130,140.392303],[17.416718,205.392334]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[112,119.607697],[-0.583282,184.607727],[112,119.607697],[-0.583282,184.607727]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,150.784607],[17.416718,215.784637],[130,150.784607],[17.416718,215.784637]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[103,114.411545],[-9.583282,179.411575],[103,114.411545],[-9.583282,179.411575]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,161.176910],[17.416718,226.176941],[130,161.176910],[17.416718,226.176941]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[94,109.215393],[-18.583282,174.215424],[94,109.215393],[-18.583282,174.215424]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,171.569214],[17.416718,236.569244],[130,171.569214],[17.416718,236.569244]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[85,104.019241],[-27.583282,169.019272],[85,104.019241],[-27.583282,169.019272]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,181.961517],[17.416718,246.961548],[130,181.961517],[17.416718,246.961548]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[76,98.823082],[-36.583282,163.823120],[76,98.823082],[-36.583282,163.823120]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,192.353836],[17.416718,257.353851],[130,192.353836],[17.416718,257.353851]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[67,93.626930],[-45.583282,158.626953],[67,93.626930],[-45.583282,158.626953]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,202.746140],[17.416718,267.746155],[130,202.746140],[17.416718,267.746155]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[58,88.430779],[-54.583282,153.430817],[58,88.430779],[-54.583282,153.430817]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,213.138443],[17.416718,278.138489],[130,213.138443],[17.416718,278.138489]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[242.583313,194.999969],[130,130],[242.583313,194.999969]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[242.583313,194.999969],[130,130],[242.583313,194.999969]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,130],[242.583313,194.999969],[130,130],[242.583313,194.999969]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[139,124.803848],[251.583313,189.803818],[139,124.803848],[251.583313,189.803818]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,140.392303],[242.583313,205.392273],[130,140.392303],[242.583313,205.392273]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[148,119.607697],[260.583313,184.607666],[148,119.607697],[260.583313,184.607666]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,150.784607],[242.583313,215.784576],[130,150.784607],[242.583313,215.784576]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[157,114.411545],[269.583313,179.411514],[157,114.411545],[269.583313,179.411514]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,161.176910],[242.583313,226.176880],[130,161.176910],[242.583313,226.176880]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[166,109.215393],[278.583313,174.215363],[166,109.215393],[278.583313,174.215363]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,171.569214],[242.583313,236.569183],[130,171.569214],[242.583313,236.569183]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[175,104.019241],[287.583313,169.019211],[175,104.019241],[287.583313,169.019211]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,181.961517],[242.583313,246.961487],[130,181.961517],[242.583313,246.961487]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[184,98.823082],[296.583313,163.823059],[184,98.823082],[296.583313,163.823059]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,192.353836],[242.583313,257.353790],[130,192.353836],[242.583313,257.353790]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[193,93.626930],[305.583313,158.626892],[193,93.626930],[305.583313,158.626892]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,202.746140],[242.583313,267.746094],[130,202.746140],[242.583313,267.746094]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[202,88.430779],[314.583313,153.430756],[202,88.430779],[314.583313,153.430756]]" />
+        <shape type="polygon" color="Gfx.COLOR_DK_GRAY" points="[[130,213.138443],[242.583313,278.138428],[130,213.138443],[242.583313,278.138428]]" /> -->
+    </drawable-list>
+
+    <jsonData id="positions" filename="../jsons/positions.json"/>
+</resources>
